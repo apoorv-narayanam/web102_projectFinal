@@ -1,0 +1,20 @@
+.comment-list {
+    margin-top: 2rem;
+  }
+  
+  .comment {
+    border: 1px solid #00CCA5;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+    background-color: #F7FFFE;
+  }
+  
+  .comment-content {
+    margin-bottom: 0.5rem;
+  }
+  
+  .comment-date {
+    font-size: 0.8rem;
+    color: #666;
+  }

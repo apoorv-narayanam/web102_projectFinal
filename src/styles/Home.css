@@ -1,0 +1,39 @@
+.home h1 {
+    color: #008080;
+    margin-bottom: 2rem;
+  }
+  
+  .controls {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .controls select,
+  .controls input,
+  .controls button {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #00CCA5;
+    border-radius: 4px;
+  }
+  
+  .controls select {
+    background-color: #F7FFFE;
+    color: #333333;
+  }
+  
+  .controls input::placeholder {
+    color: #999;
+  }
+  
+  .controls button {
+    background-color: #00CCA5;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .controls button:hover {
+    background-color: #008080;
+  }

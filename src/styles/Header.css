@@ -1,0 +1,12 @@
+.header {
+    background-color: #00CCA5;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header-title {
+    color: #F7FFFE;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }

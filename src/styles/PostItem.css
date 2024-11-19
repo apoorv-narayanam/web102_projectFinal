@@ -1,0 +1,25 @@
+.post-item {
+    border: 1px solid #00CCA5;
+    background-color: #F7FFFE;
+    padding: 1rem;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+  }
+  
+  .post-item:hover {
+    box-shadow: 0 4px 8px rgba(0, 204, 165, 0.2);
+  }
+  
+  .post-title {
+    font-size: 1.2rem;
+    color: #008080;
+    text-decoration: none;
+  }
+  
+  .post-meta {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: #666;
+  }
